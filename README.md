@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on creating big corporations for web related services
 - 📫 How to reach me: 
-- . Email: bdalrhmanbdalhq@gmail.com
-- . Website: abdulrahmanabdulhak.xyz
+-   . Email: bdalrhmanbdalhq@gmail.com
+-   . Website: abdulrahmanabdulhak.xyz
